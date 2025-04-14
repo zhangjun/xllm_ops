@@ -1,7 +1,0 @@
-setup.py
-xllm_kernel/csrc/common_extension.cc
-xllm_kernel/csrc/gemm/cublas_grouped_gemm.cu
-xllm_ops/xllm_ops.egg-info/PKG-INFO
-xllm_ops/xllm_ops.egg-info/SOURCES.txt
-xllm_ops/xllm_ops.egg-info/dependency_links.txt
-xllm_ops/xllm_ops.egg-info/top_level.txt
